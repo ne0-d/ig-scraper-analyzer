@@ -34,7 +34,7 @@ Clone the repository:
 
 ```bash
 Copy code
-git clone <your-repo-url>
+git clone https://github.com/ne0-d/ig-scraper-analyzer.git
 cd instagram-comments-scraper
 ```
 
