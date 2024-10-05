@@ -1,0 +1,56 @@
+# JavaScript
+node_modules
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Streamlit
+.staging/
+.streamlit/
+
+# Environment variables
+.env
+.venv/
+venv/
+env/
+env.bak/
+*.env
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Cache files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pdb
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# MacOS
+.DS_Store
+
+# Other
+*.sqlite3
+*.db
+*.egg
+*.egg-info

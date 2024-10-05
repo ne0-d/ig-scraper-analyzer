@@ -1,0 +1,176 @@
+{
+  "totalPositiveComments": 2434,
+  "totalNegativeComments": 1030,
+  "frequentPositiveWords": [
+    [
+      "6000",
+      12
+    ],
+    [
+      "mama",
+      11
+    ],
+    [
+      "hai",
+      11
+    ],
+    [
+      "jay shree ram",
+      7
+    ],
+    [
+      "ji",
+      7
+    ],
+    [
+      "jindabad",
+      6
+    ],
+    [
+      "jay",
+      6
+    ],
+    [
+      "shree",
+      6
+    ],
+    [
+      "ram",
+      6
+    ],
+    [
+      "kar",
+      6
+    ]
+  ],
+  "frequentNegativeWords": [
+    [
+      "hai",
+      14
+    ],
+    [
+      "kya",
+      6
+    ],
+    [
+      "kar",
+      6
+    ],
+    [
+      "MP",
+      6
+    ],
+    [
+      "soyabean",
+      5
+    ],
+    [
+      "mp",
+      5
+    ],
+    [
+      "bjp",
+      5
+    ],
+    [
+      "6000",
+      5
+    ],
+    [
+      "nahi",
+      5
+    ],
+    [
+      "rahe",
+      5
+    ]
+  ],
+  "mostUsedEmojis": [
+    [
+      "❤️",
+      12
+    ],
+    [
+      "🔥🔥",
+      10
+    ],
+    [
+      "🙏",
+      10
+    ],
+    [
+      "👏",
+      8
+    ],
+    [
+      "👏👏",
+      7
+    ]
+  ],
+  "mostCommentedPosts": [
+    {
+      "postUrl": "https://www.instagram.com/reel/DAGUV6QsWZS/?hl=en",
+      "commentCount": 155
+    },
+    {
+      "postUrl": "https://www.instagram.com/reel/DAGUV6QsWZS/?hl=en",
+      "commentCount": 145
+    },
+    {
+      "postUrl": "https://www.instagram.com/p/C_ajJJIymzb/?hl=en",
+      "commentCount": 129
+    },
+    {
+      "postUrl": "https://www.instagram.com/reel/C_qLtTZSWP6/?hl=en",
+      "commentCount": 125
+    },
+    {
+      "postUrl": "https://www.instagram.com/reel/DATlIVaseU4/?hl=en",
+      "commentCount": 124
+    }
+  ],
+  "mostPositiveCommentsPosts": [
+    {
+      "postUrl": "https://www.instagram.com/reel/DATlIVaseU4/?hl=en",
+      "positiveCommentCount": 92
+    },
+    {
+      "postUrl": "https://www.instagram.com/reel/C_vIt7eylMh/?hl=en",
+      "positiveCommentCount": 86
+    },
+    {
+      "postUrl": "https://www.instagram.com/reel/C_vIt7eylMh/?hl=en",
+      "positiveCommentCount": 82
+    },
+    {
+      "postUrl": "https://www.instagram.com/reel/DATlIVaseU4/?hl=en",
+      "positiveCommentCount": 79
+    },
+    {
+      "postUrl": "https://www.instagram.com/reel/C_XytCzyMSi/?hl=en",
+      "positiveCommentCount": 78
+    }
+  ],
+  "mostNegativeCommentsPosts": [
+    {
+      "postUrl": "https://www.instagram.com/reel/C_qLtTZSWP6/?hl=en",
+      "negativeCommentCount": 54
+    },
+    {
+      "postUrl": "https://www.instagram.com/p/C_ajJJIymzb/?hl=en",
+      "negativeCommentCount": 54
+    },
+    {
+      "postUrl": "https://www.instagram.com/reel/DAGUV6QsWZS/?hl=en",
+      "negativeCommentCount": 47
+    },
+    {
+      "postUrl": "https://www.instagram.com/reel/C_qLtTZSWP6/?hl=en",
+      "negativeCommentCount": 36
+    },
+    {
+      "postUrl": "https://www.instagram.com/reel/C_vIt7eylMh/?hl=en",
+      "negativeCommentCount": 35
+    }
+  ]
+}
